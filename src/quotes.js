@@ -126,5 +126,17 @@ module.exports = [
 	{
 		"quote": "Courage is the price that life exacts for granting peace.",
 		"source": "Amelia Earhart"
+	},
+	{
+		"quote": "Humans are allergic to change. They love to say, \"We've always done it this way.\" I try to fight that. That's why I have a clock on my wall that runs counter-clockwise.",
+		"source": "Grace Hopper"
+	},
+	{
+		"quote": "We are not subversives. We are struggling to change the country because we love it.",
+		"source": "Grace Lee Boggs"
+	},
+	{
+		"quote": "You don’t choose the times you live in, but you do choose who you want to be. And you do choose how you think.",
+		"source": "Grace Lee Boggs"
 	}
 ];
